@@ -11,6 +11,13 @@ Currently, I am available for hire for open roles and paid Internships.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 🤔 I’m looking for help with securing a remote job or internship.
 - 💬 Ask me about my journey into software development or frontend development to be specific.
-- 📫 How to reach me: [Email](mailto:nwobodokenechukwu2@gmail.com?subject=), [Twitter](https://twitter.com/RealKeneNwobodo), [Linkdln](https://www.linkedin.com/in/kenechukwu-nwobodo-8a30171a2)
+- 📫 How to reach me: [Email](mailto:nwobodokenechukwu2@gmail.com?subject=) [Twitter](https://twitter.com/RealKeneNwobodo). [Linkdln](https://www.linkedin.com/in/kenechukwu-nwobodo-8a30171a2)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have strong Knack for football.
+
+
+### GitHub Stats :chart_with_downwards_trend:
+
+![Kene GitHub Stars](https://github-readme-stats.vercel.app/api?username=keneNwobodo&count_private=true&show_icons=true&theme=gruvbox&hide=stars,issues&api/pin?username=keneNwobodo&repo=github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keneNwobodo&layout=compact&langs_count=10&theme=cobalt)](https://github.com/keneNwobodo/github-readme-stats)
