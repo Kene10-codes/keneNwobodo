@@ -1,8 +1,5 @@
 ### Welcome, I' Kene 👋
 
-<!--
-**keneNwobodo/keneNwobodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am a Frontend Developer. I love learning and creating works and and make life much easier for people to use. Most especially I derive pleasure in creating aesthetically, pleasing and functional web products.
 Here are some of the technologies I enjoy working with include, **HTML**, **CSS**, **JavaScript**, **ReactJs**, **NodeJs**, **SASS** and **Bootstrap**.
 When I am not coding, I love playing football (soccer) in other to stay active or am on [Twitter](https://twitter.com/RealKeneNwobodo)
