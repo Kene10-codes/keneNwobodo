@@ -7,7 +7,7 @@ When I am not coding, I love playing football (soccer) in other to stay active o
 Currently, I am available for hire for **open roles** and **paid Internships.**
 
 
-- 🌱 I’m currently learning VueJs.
+- 🌱 I’m currently learning ReactJs.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 🤔 I’m looking for help with securing a remote job or internship.
 - 💬 Ask me about my journey into software development or frontend development to be specific.
