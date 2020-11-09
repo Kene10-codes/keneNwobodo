@@ -9,7 +9,6 @@ Currently, I am available for hire for **open roles** and **paid Internships.**
 
 - 🌱 I’m currently learning VueJs.
 - 👯 I’m looking to collaborate on Open Source Projects.
-- 🤔 I’m looking for help with securing a remote job or internship.
 - 💬 Ask me about my journey into software development or frontend development to be specific.
 - 📫 How to reach me: </br>1. [Email](mailto:nwobodokenechukwu2@gmail.com?subject=)</br>2. [Twitter](https://twitter.com/RealKeneNwobodo)</br>3. [Linkdln](https://www.linkedin.com/in/kenechukwu-nwobodo-8a30171a2)</br>
                          4. [Portfolio](https://kenedev.netlify.app/)
