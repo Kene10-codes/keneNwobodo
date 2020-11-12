@@ -1,4 +1,4 @@
-### Hello, I' Kene 👋
+Hi### Hello, I' Kene 👋
 
 I am a Frontend Developer. I love learning and creating products that make life much easier for people to use. Most especially I derive pleasure in creating aesthetically, pleasing and functional web products.
 Here are some of the technologies I enjoy working with include, **HTML**, **CSS**, **JavaScript**, **ReactJs**, **NodeJs**, **SASS** and **Bootstrap**.
@@ -7,7 +7,7 @@ When I am not coding, I love playing football (soccer) in other to stay active o
 Currently, I am available for hire for **open roles** and **paid Internships.**
 
 
-- 🌱 I’m currently learning VueJs.
+- 🌱 I’m currently learning advanced ReactJs.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 💬 Ask me about my journey into software development or frontend development to be specific.
 - 📫 How to reach me: </br>1. [Email](mailto:nwobodokenechukwu2@gmail.com?subject=)</br>2. [Twitter](https://twitter.com/RealKeneNwobodo)</br>3. [Linkdln](https://www.linkedin.com/in/kenechukwu-nwobodo-8a30171a2)</br>
