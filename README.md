@@ -7,7 +7,7 @@ When I am not coding, I love playing football (soccer) in other to stay active o
 Currently, I am available for hire for **open roles**
 
 
-- 🌱 I’m currently learning advanced Node JS.
+- 🌱 I’m currently learning advanced JavaScriptS.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 💬 Ask me about my journey into software development or frontend development to be specific.
 - 📫 How to reach me: </br>1. [Email](mailto:nwobodokenechukwu2@gmail.com?subject=)</br>2. [Twitter](https://twitter.com/RealKeneNwobodo)</br>3. [Linkdln](https://www.linkedin.com/in/kenechukwu-nwobodo-8a30171a2)</br>
