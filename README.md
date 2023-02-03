@@ -1,6 +1,6 @@
 ### Hello, I'm Kenechukwu 👋
 
-I am a Frontend Developer. I love learning and creating products that make life much easier for people to use. Most especially I derive pleasure in creating aesthetically, pleasing and functional web products.
+I'm a Frontend Engineer. I love learning and creating products that make life much easier for people to use. Most especially I derive pleasure in creating aesthetically, pleasing and functional web products.
 Here are some of the technologies I enjoy working with **HTML**, **CSS**, **JavaScript**, **React**, **TailWind CSS** and **Bootstrap**.
 When I am not coding, I love playing football (soccer) in other to stay active or I 'm on [Twitter](https://twitter.com/RealKeneNwobodo)
 
